@@ -54,4 +54,4 @@ def parse_transactions(file_path: str) -> pd.DataFrame:
   
 
 
-print(parse_transactions("PNB_Statement_Jan2026.xlsx"))
+# print(parse_transactions("PNB_Statement_Jan2026.xlsx"))
